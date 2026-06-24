@@ -1,0 +1,19 @@
+{
+    "theme": {
+        "primary": "#FF9933",
+        "background": "#FFF5E6"
+    },
+    "blocks": [{
+            "id": "1",
+            "type": "BANNER_HERO"
+        },
+        {
+            "id": "2",
+            "type": "PRODUCT_GRID_2X2"
+        },
+        {
+            "id": "3",
+            "type": "DYNAMIC_COLLECTION"
+        }
+    ]
+}
